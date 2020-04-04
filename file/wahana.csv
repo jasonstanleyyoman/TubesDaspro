@@ -1,0 +1,8 @@
+ID_Wahana,Nama_Wahana,Harga_Tiket,Batasan_Umur,Batasan_Tinggi
+AIJ145,Yamaha Racing,12000,semua umur,tanpa batasan
+ANK347,Negeri Raksasa,10000,Anak-anak,tanpa batasan
+DNA892,Kong Climb,15000,dewasa,>=170
+KCL420,Pulau Liliput,7000,Anak-anak,tanpa batasan
+KBR476,Giant Swing,10000,dewasa,>=170
+IDH104,Sky Pirates,12000,semua umur,>=170
+UDL369,Dunia Lain,9000,semua umur,tanpa batasan
