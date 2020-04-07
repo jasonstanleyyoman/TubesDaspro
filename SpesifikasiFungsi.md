@@ -9,6 +9,7 @@ Pastikan sudah ada potongan kode ini:
 ### Sign Up User
 
 Ini adalah sebuah prosedur.<br/>
+Saldo defaulnya Rp.0.<br/>
 Prosedur ini akan menambahkan data pada
 ```python
   data.user["Data"]
@@ -18,7 +19,6 @@ Jangan lupa juga mevalidasi data yang diinput
 ### Login User
 Fungsi ini tidak menerima parameter apapun.<br/>
 Fungsi ini mengembalikan data pengguna yang berhasil login.<br/>
-Saldo defaulnya Rp.0.<br/>
 Jangan lupa juga mevalidasi data yang diinput
 contoh:
 ```python
