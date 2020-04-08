@@ -87,3 +87,6 @@ print(data.user["Data"][0])
 print()
 print("data.user[\"Data\"][0][\"Username\"]")
 print(data.user["Data"][0]["Username"])
+
+ 
+

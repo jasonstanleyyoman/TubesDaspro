@@ -1,8 +1,8 @@
-Nama,Tanggal_Lahir,Username,Password,Role,Saldo
-Andi,01/01/2001,hello_world,Andi_123,Pemain,40000
-Budi,02/01/2001,budi_budi,Budi_123,Admin,0
-Caca,03/04/2001,caca_caca,Caca_123,Pemain,30000
-Didi,12/12/2001,didi_didi,Didi_123,Admin,0
-Edu,23/05/2015,edu_adu,Adu_123,Pemain,134000
-Fafa,13/09/2012,fafa_fafi,Fafa_2020,Pemain,24000
-Gaga,12/05/2005,Gaga-gaga,Gagi_045,Pemain,5000
+Nama,Tanggal_Lahir,Username,Password,Role,Saldo,Tinggi_Pemain
+Andi,01/01/2001,hello_world,Andi_123,Pemain,40000,176
+Budi,02/01/2001,budi_budi,Budi_123,Admin,0,170
+Caca,03/04/2001,caca_caca,Caca_123,Pemain,30000,160
+Didi,12/12/2001,didi_didi,Didi_123,Admin,0,163
+Edu,23/05/2015,edu_adu,Adu_123,Pemain,134000,145
+Fafa,13/09/2012,fafa_fafi,Fafa_2020,Pemain,24000,171
+Gaga,12/05/2005,Gaga-gaga,Gagi_045,Pemain,5000,170
