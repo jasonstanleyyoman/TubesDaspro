@@ -1,8 +1,8 @@
-Nama,Tanggal_Lahir,Username,Password,Role,Saldo,Tinggi_Pemain
-Andi,01/01/2001,hello_world,Andi_123,Pemain,40000,176
-Budi,02/01/2001,budi_budi,Budi_123,Admin,0,170
-Caca,03/04/2001,caca_caca,Caca_123,Pemain,30000,160
-Didi,12/12/2001,didi_didi,Didi_123,Admin,0,163
-Edu,23/05/2015,edu_adu,Adu_123,Pemain,134000,145
-Fafa,13/09/2012,fafa_fafi,Fafa_2020,Pemain,24000,171
-Gaga,12/05/2005,Gaga-gaga,Gagi_045,Pemain,5000,170
+Nama,Tanggal_Lahir,Username,Password,Role,Saldo,Tinggi_Badan,gold
+Andi,01/01/2001,hello_again,b'$2b$12$dbJej0PgToXSuLD0UYvEUe7bIt.H/.5T3d8mrrmPV9paYZY9NrA5O',Pemain,64000,176,1
+Budi,02/01/2001,budi_budi,b'$2b$12$UUG.FQ31fU8jkFBGO7/nHOoXozSeGocAJwWifUt0vOAlreS2tpFt6',Admin,0,170,0
+Caca,03/04/2001,caca_caca,b'$2b$12$.uPwUKPHYzncrfpFo5l.y.bDycOy.xPS0BH8sOAr01UJth1dWhk8O',Pemain,30000,160,0
+Didi,12/12/2001,didi_didi,b'$2b$12$d4pWTM2kPJcWKXevjJYCt..Fexy2GTS7WjbiQc1OygCbaOSaVqVT6',Admin,0,163,0
+Edu,23/05/2015,edu_adu,b'$2b$12$9OY61ipq4j7FASQtNfHUNu3JFuIEJlKFAevaZ6oJWqXlbb3V1kt.S',Pemain,134000,145,1
+Fafa,13/09/2012,fafa_fafi,b'$2b$12$hclYj8VBA/UfptliYUVDCu8TmlRem8JFj3s7JPZLwqcV4pJ8uB3Ja',Pemain,25000,171,1
+Gaga,12/05/2005,Gaga-gaga,b'$2b$12$9TO0V14peQbipwLfnZPiK.x9lY4xaiM8G5wxTF7feKUliOStIxura',Pemain,25000,170,1
